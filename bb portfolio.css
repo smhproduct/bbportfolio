@@ -6,3 +6,17 @@ body{font-family: 'Open sans', sans-serif;}
     background-color: #8D8D8D;
 }
 .navbar-container{background-color: #262B37; color: aliceblue;}
+.about-container{background-color: #1496ad;}
+.education-container{background-color: #EEEEEE;}
+
+.bg-redtype{background-color: #fb857f;}
+.redtype-color{color: #fb857f;}
+.circle{
+    background-color: #fb857f;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{ background-color:#1496ad;}
+.portfolio-container{background-color: #EEEEEE;}
+.zoom-on-hover:hover{ transform: scale(1.1);transition: 1s ease-out;}
